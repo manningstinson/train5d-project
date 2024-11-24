@@ -180,6 +180,8 @@ node_modules/
 
 # Config files
 config.local.py
+config.py
+gunicorn_config.py
 *.cfg
 gunicorn.conf.py
 *.local.yaml
